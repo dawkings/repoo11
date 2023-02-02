@@ -1,0 +1,98 @@
+node affinity 
+secrets
+taint toleration
+node selector
+cannary , blue green deployment 
+
+azure devops everythings 
+
+
+github branches 
+how things happen in the production etc 
+
+
+
+
+
+
+
+what are the tesing tools for the testing of the cicd process
+cicd process
+s
+
+pv pvc conscpt overview
+
+docke volume 
+how to monitor aks cluster 
+contionus delivery and deployment 
+
+
+container d 
+runc 
+docker 
+oci 
+
+cloud native 
+cloud computing 
+iaas paas saas
+
+aks
+helm 
+service mess
+stratigies blue green, canary 
+pv pvc 
+monitroig
+trobule shoot questiongs
+
+
+
+
+
+
+
+AZURE AD 
+VPN POINT TO SITE , SITE TO SITE , EXPRESS ROUTE
+LOADBALANCER 
+STORAGE ACCOUNT BLOB,FILE STORAGE,QUEUE,TABLE
+HOW CAN WE BACK UP A VIRTAUL MACHINE (RECOVERY SERVCE VAULT)
+Azure virtual machine scale set 
+
+
+azure Iaas, Paas, Saas
+azure monitoring 
+web app 
+storage account 
+deployment models
+
+vm troubleshouting 
+azure ad,and its permissions assigning permissions to user 
+virtual machine 
+
+PRIVATE END POINT
+PUBLIC END POINT
+
+VPN
+POINT TO SITE , SITE TO SITE
+EXPRESS ROUTE VPN
+
+key vault 
+
+how to backup vm 
+Virtual machine scale set 
+
+how can we troubble shot vm 
+
+storage account and it types
+
+vnet , vnet pearring
+
+load balancing and its type 
+
+azure monitoring 
+
+
+region
+across availability zones or fault domains
+availbality zone 
+availablity set 
+virtual machine scale set 
